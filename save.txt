@@ -1,0 +1,12 @@
++ Voiture RENO : Lagouna Moteur ESSENCE 150 Chevaux (23123,00€) Options: [GPS (113,50€), Siège chauffant (562,90€), Vitre électrique (212,35€)] d'une valeur totale de 24011,75€ €
++ Voiture PIGEOT : A300B Moteur ELECTRIQUE 1500 W (28457,00€) Options: [Climatisation (347,30€), Barre de toit (29,90€), Siège chauffant (562,90€)] d'une valeur totale de 29397,10€ €
++ Voiture TROEN : D4 Moteur DIESEL 200 Hdi (25147,00€) Options: [Barre de toit (29,90€), Climatisation (347,30€), GPS (113,50€)] d'une valeur totale de 25637,70€ €
++ Voiture RENO : Lagouna Moteur DIESEL 500 Hdi (23123,00€) Options: [] d'une valeur totale de 23123,00€ €
++ Voiture PIGEOT : A300B Moteur HYBRIDE ESSENCE/Electrique (28457,00€) Options: [Vitre électrique (212,35€), Barre de toit (29,90€)] d'une valeur totale de 28699,25€ €
++ Voiture TROEN : D4 Moteur ELECTRIQUE 100 KW (25147,00€) Options: [Siège chauffant (562,90€), Barre de toit (29,90€), Climatisation (347,30€), GPS (113,50€), Vitre électrique (212,35€)] d'une valeur totale de 26412,95€ €
++ Voiture RENO : Lagouna Moteur ESSENCE 150 Chevaux (23123,00€) Options: [GPS (113,50€), Siège chauffant (562,90€), Vitre électrique (212,35€)] d'une valeur totale de 24011,75€ €
++ Voiture PIGEOT : A300B Moteur ELECTRIQUE 1500 W (28457,00€) Options: [Climatisation (347,30€), Barre de toit (29,90€), Siège chauffant (562,90€)] d'une valeur totale de 29397,10€ €
++ Voiture TROEN : D4 Moteur DIESEL 200 Hdi (25147,00€) Options: [Barre de toit (29,90€), Climatisation (347,30€), GPS (113,50€)] d'une valeur totale de 25637,70€ €
++ Voiture RENO : Lagouna Moteur DIESEL 500 Hdi (23123,00€) Options: [] d'une valeur totale de 23123,00€ €
++ Voiture PIGEOT : A300B Moteur HYBRIDE ESSENCE/Electrique (28457,00€) Options: [Vitre électrique (212,35€), Barre de toit (29,90€)] d'une valeur totale de 28699,25€ €
++ Voiture TROEN : D4 Moteur ELECTRIQUE 100 KW (25147,00€) Options: [Siège chauffant (562,90€), Barre de toit (29,90€), Climatisation (347,30€), GPS (113,50€), Vitre électrique (212,35€)] d'une valeur totale de 26412,95€ €
